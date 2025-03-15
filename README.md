@@ -22,13 +22,13 @@ Este repositório contém um projeto de análise exploratória de dados sobre qu
 
 ## 📚 Referências
 Os dados utilizados neste projeto foram obtidos a partir de fontes públicas sobre queimadas no Brasil.
-Fonte dos dados: [Kaggle](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil)
+Fonte dos dados: [Kaggle](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil/data)
 
 ## 💪 Contribuição
 Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias!
 
 ## 🌟 Contato
-Se tiver alguma dúvida ou sugestão, me encontre no [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-victor-resende-3015562a4/)).
+Se tiver alguma dúvida ou sugestão, me encontre no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-resende-3015562a4/).
 
 ---
 👉 **Se gostou do projeto, deixe uma estrela no repositório!** ⭐
